@@ -1,5 +1,17 @@
+body{
+
+}
+
+
 #Principal{
-    color: red;
+    color: #7cccb4;
+    background-image: url(./Backgrounds/paper_texture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+    
+    /* background-image: url(./Backgrounds/paper_texture.jpg); */
 }
 
 #Title{
@@ -7,5 +19,5 @@
 }
 
 .texto_verde{
-    color: green;
+    color: #c2b3d3;
 }
