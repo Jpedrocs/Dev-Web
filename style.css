@@ -3,7 +3,7 @@ body{
 }
 
 
-#Principal{
+#paragrafos{
     color: #7cccb4;
     background-image: url(./Backgrounds/paper_texture.jpg);
     background-repeat: no-repeat;
@@ -12,12 +12,56 @@ body{
 }
     
     /* background-image: url(./Backgrounds/paper_texture.jpg); */
-}
+
 
 #Title{
     color: blue;
 }
 
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+
+#mm{
+    background-color:red;
+    width: 1mm;
+    height: 1mm;
+}
+
+#in{
+    background-color: green;
+    width: 1in;
+    height: 1in;
+}
+
+#px{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+}
+
+#pt{
+    background-color: blue;
+    width: 10pt;
+    height: 10pt;
+}
+
+#pc{
+    background-color: red;
+    width: 1pc;
+    height: 1pc;
+}
 .texto_verde{
     color: #c2b3d3;
 }
+
+.container{
+    font-size: 20px;
+}
+
+.inside{
+    font-size: 3em;
+}
+
