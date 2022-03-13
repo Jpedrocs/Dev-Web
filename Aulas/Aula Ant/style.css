@@ -1,0 +1,93 @@
+body{
+
+}
+
+
+#paragrafos{
+    color: #7cccb4;
+    background-image: url(./Backgrounds/paper_texture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+    
+    /* background-image: url(./Backgrounds/paper_texture.jpg); */
+
+
+#Title{
+    color: blue;
+}
+
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+
+#mm{
+    background-color:red;
+    width: 1mm;
+    height: 1mm;
+}
+
+#in{
+    background-color: green;
+    width: 1in;
+    height: 1in;
+}
+
+#px{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+}
+
+#pt{
+    background-color: blue;
+    width: 10pt;
+    height: 10pt;
+}
+
+#pc{
+    background-color: red;
+    width: 1pc;
+    height: 1pc;
+}
+.texto_verde{
+    color: #c2b3d3;
+}
+
+/* .container{
+    font-size: 20px;
+    width: 300px;
+    background: red;
+} */
+/* rem é relativo ao html principal */
+/* vw é 1% da largura da janela */
+/* vh é 1% da altura da janela */
+/* vmin é relativo a menor medida altura ou largura */
+/* vmax é relativo a maior medida entre alturaou largura */
+/* a porcentagem está relativa a medida do elemento pai */
+
+/* .inside{
+    width: 30vh;
+    font-size: 3em;
+    background: blue;
+} */
+
+#base{
+    height: 10px;
+    background-color: red;
+}
+
+#container{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    /* margin é para todos os lados */
+    /* margin: 10px  */
+    /* paddin distancia a margem do conteudo, do texto */
+    padding: 10px;
+    /* padding-top */
+}

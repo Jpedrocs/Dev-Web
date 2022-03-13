@@ -1,0 +1,30 @@
+.links{
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+
+.links:hover{
+    background: red;
+    color: white;
+}
+
+.links:active{
+    background: green;
+    color: white;
+
+}
+
+
+ul{
+    list-style-image: url('/Assets/sorveteestudo.jpg');
+    list-style-position: inside;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
