@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.links{
+    text-decoration:none;
+    color: black;
+}
+
+.links:visited{
+    color:black;
+}
+
+.card{
+    height: 200px;
+    width:400px;
+    box-sizing: border-box;
+    background-image: url(./Assets2/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5px;
+}
+
+.titulo{
+    font-size: 24px;
+    letter-spacing: 2px;
+    padding-left: 22px;
+    padding-top: 20px;
+    /* font-family: Arial; */
+    font-style: normal;
+    font-weight: 900px;
+}
+
+ul{
+    font-family: 'Fredoka';
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+#instagram{
+    list-style-image: url(Assets2/Insta.png);
+}
+
+#twitter{
+    list-style-image: url(Assets2/Twitter.png);
+}
+
+#youtube{
+    list-style-image: url(Assets2/Youtube.png);
+}

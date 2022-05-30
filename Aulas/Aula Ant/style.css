@@ -5,7 +5,7 @@ body{
 
 #paragrafos{
     color: #7cccb4;
-    background-image: url(./Backgrounds/paper_texture.jpg);
+    background-image: url(paper_texture.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
