@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin-top: 0;
+    background: black;
+}
+
+.margem{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+header{
+    background: #48c5ce;
+    text-align: center;
+    color: white;
+    padding: 1px;
+    margin: 0;
+    font-size: 12px;
+}
